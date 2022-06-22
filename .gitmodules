@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RTCGAToolbox"]
+	path = RTCGAToolbox
+	url = https://github.com/mksamur/rtcgatoolbox
+	shallow = true
+	registered = true
